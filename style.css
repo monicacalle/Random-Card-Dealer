@@ -32,4 +32,5 @@ body {
   bottom: 20px;
   right: 20px;
   font-size: 80px;
+  transform: rotate(180deg);
 }
